@@ -22,7 +22,9 @@ scikit-learn 0.23.2
 
 ## sigmodFormatrix2(Xb,betas)
 输入：Xb为矩阵、betas为参数向量
+
 输出：分类类别向量
+
 功能：结合给定的样本和参数向量，预测每个X对应所属的类别
 
 ## sigmod(Xi,betas)
