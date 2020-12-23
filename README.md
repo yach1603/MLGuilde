@@ -12,6 +12,8 @@ pandas 1.0.5
 
 scikit-learn 0.23.2
 
+jupyter notebook 6.0.3
+
 # 代码模块
 ## sigmodFormatrix(Xb,betas)
 输入：Xb为矩阵、betas为参数向量
